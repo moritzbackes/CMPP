@@ -18,13 +18,13 @@ conda install -n CMPP -c conda-forge pymc3
 git clone https://github.com/moritzbackes/CMPP.git
 ~~~
 
-3. Open a Jupyter notebook:
+4. Open a Jupyter notebook:
 ~~~
 cd CMPP
 jupyter notebook
 ~~~
 
-4. Deactive environment after you are done:
+5. Deactive environment after you are done:
 ~~~
 source deactivate CMPP
 ~~~
