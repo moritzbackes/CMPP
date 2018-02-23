@@ -1,4 +1,4 @@
-Material for the 2018 computing methods in particle physics (CMPP) course at the University of Oxford. 
+Material for the course "**C**omputing **M**ethods in **P**article **P**hysics" (CMPP) course at the University of Oxford (Hilary term 2018). 
 
 ## Getting started
 
