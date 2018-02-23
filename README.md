@@ -1,4 +1,4 @@
-Material for the course "**C**omputing **M**ethods in **P**article **P**hysics" (CMPP) course at the University of Oxford (Hilary term 2018). 
+Material for the "**C**omputing **M**ethods in **P**article **P**hysics" (CMPP) course at the University of Oxford (Hilary term 2018). 
 
 ## Getting started
 
