@@ -3,7 +3,8 @@ Material for the 2018 computing methods in particle physics (CMPP) course at the
 ## Getting started
 
 1. Install [Anaconda](https://conda.io/docs/user-guide/install/index.html)
-2. Create, set up, and activate the environment
+
+2. Create, set up, and activate the environment:
 ~~~
 conda env create -n CMPP
 source activate CMPP
@@ -12,8 +13,20 @@ conda install -n CMPP mkl-service numpy scipy ipython ipython-notebook matplotli
 conda install -n CMPP -c conda-forge pymc3
 ~~~
 
-3. Deactive environment after you are don
+3. Clone the CMPP git repository
+~~~
+git clone https://github.com/moritzbackes/CMPP.git
+~~~
+
+3. Open a Jupyter notebook:
+~~~
+cd CMPP
+jupyter notebook
+~~~
+
+4. Deactive environment after you are done:
 ~~~
 source deactivate CMPP
 ~~~
 
+Credits: The course material is based on a previous CMPP course given by [Matthew Bass](https://github.com/mibass/CMPP/)
