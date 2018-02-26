@@ -10,7 +10,7 @@ PATH=$PATH:~/anaconda3/bin
 2. Create, set up, and activate the environment:
 ~~~
 conda env create -n CMPP  # Do this only once for a given environment
-source activate CMPP      # This needs to be done **every time** you open a new terminal
+source activate CMPP      # This needs to be done every time you open a new terminal
 # get required packages (you only need to do this once unless you need new packages)
 conda install -n CMPP mkl-service numpy scipy ipython ipython-notebook matplotlib pandas pytables nose setuptools sphinx mpi4py seaborn pymc
 conda install -n CMPP -c conda-forge pymc3
